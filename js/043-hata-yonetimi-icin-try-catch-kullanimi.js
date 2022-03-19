@@ -16,5 +16,5 @@ try {
 
 console.log("hata yonetimi duzgun calisiyor")
 
-let info = "kodluyoruz"
+let info = "kodluyorzuz"
 console.log(info)
